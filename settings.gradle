@@ -1,0 +1,5 @@
+rootProject.name='FTP server upload App'
+include ':app'
+include ':FilePicker'
+include ':app:mylibrary'
+include ':app:mylibrary12'
